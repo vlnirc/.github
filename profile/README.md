@@ -1,4 +1,4 @@
-<img src="https://github.com/thexnetircnetwork/thexnetircnetwork.github.io/blob/main/content/txin.logo.png?raw=true">
+<img src="https://github.com/thexnetircnetwork/thexnetircnetwork.github.io/blob/main/content/VLN.logo.png?raw=true">
 
 IRC.TXIN.NO 6697 (SSL)
 
